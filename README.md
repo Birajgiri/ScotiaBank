@@ -28,4 +28,8 @@ A cross-platform mobile banking application built with Flutter, inspired by Scot
 2. Account List - Shows available accounts with balances
 3. Transaction Details - Displays transaction history with running balances
 
-Back navigation is available at each step using the custom "<" button.
+## Navigation Flow
+
+1. Welcome Screen - Displays Scotiabank branding and current date
+2. Account List - Shows available accounts with balances
+3. Transaction Details - Displays transaction history with running balances
